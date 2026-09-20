@@ -1,4 +1,7 @@
-#include <stdio.h>   //Basic Operators & Input
+//multiplication and modulus of 2no.
+
+
+#include <stdio.h>   
 
 int main(void) {
     int a = 10;
