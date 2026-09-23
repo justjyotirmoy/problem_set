@@ -17,6 +17,5 @@ int main() {
         printf("fail");
     }
     
-    // 3. Added space between 'return' and '0'
     return 0; 
 }
