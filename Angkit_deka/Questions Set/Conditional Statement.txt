@@ -1,0 +1,16 @@
+Conditional Statements 
+
+19. Write a C program to check whether a number is positive, negative or zero. 
+20. Write a C program to check whether a number is even or odd. 
+21. Write a C program to find the largest of two numbers. 
+22. Write a C program to find the largest of three numbers. 
+23. Write a C program to find the smallest of two numbers. 
+24. Write a C program to find the smallest of three numbers. 
+25. Write a C program to check whether a year is a leap year. 
+26. Write a C program to check whether a character is an alphabet, digit or special character. 
+27. Write a C program to check whether a character is uppercase or lowercase. 
+28. Write a C program to check whether a character is a vowel or consonant. 
+29. Write a C program to check whether a number is divisible by 5 and 11. 
+30. Write a C program to check whether a number is divisible by both 3 and 5. 
+31. Write a C program to find whether a student has passed or failed based on marks. 
+32. Write a C program to calculate grades based on marks. 
