@@ -1,4 +1,4 @@
-
+// Program to check whether the given number is positive, negative or zero and also check whether it is even or odd
 #include <stdio.h>
 int main()
 {

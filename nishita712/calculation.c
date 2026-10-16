@@ -1,4 +1,4 @@
-
+// Program to perform basic arithmetic operations and calculate simple interest and total amount (I did this one all together)
 #include <stdio.h>
 int main()
 {

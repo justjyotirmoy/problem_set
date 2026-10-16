@@ -1,5 +1,5 @@
 
-
+// Program to swap two numbers using third variable and without using third variable
 #include <stdio.h>
 int main()
 {
